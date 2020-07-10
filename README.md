@@ -7,7 +7,7 @@
 
 
 > I'm learning deep learning with data science Nigeria.
->I'm also doing a refresher course on Machine Learning with [Hamoye Internship](https://github.com/@HamoyeHQ).
+>I'm also doing a refresher course on Machine Learning with [Hamoye Internship](https://github.com/HamoyeHQ).
 
 ### Contact
 
