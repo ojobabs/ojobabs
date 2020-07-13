@@ -5,9 +5,9 @@
   - I read journals about AI, when i'm not coding
   - I listen to cool, soul-lifting music when not reading
 
-
 > I'm learning deep learning with data science Nigeria.
->I'm also doing a refresher course on Machine Learning with [Hamoye Internship](https://github.com/HamoyeHQ).
+> I'm also doing a refresher course on Machine Learning with [Hamoye Internship](https://github.com/HamoyeHQ).
+### * [Ai6 Saturdays](https://github.com/ai6lagos) Grad.
 
 ### Contact
 
