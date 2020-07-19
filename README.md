@@ -11,8 +11,8 @@
 
 ### Contact
 
-* [Website](http://ojobabs.tech)- Check some of my recently completed projects
-* [Twitter](https://twitter.com/babs_tinapa) - Let's connect
+* [Website](http://ojobabs.tech)- Check some of my recently completed projects.
+* [Twitter](https://twitter.com/babs_tinapa) - Let's connect on twitter.
 * [Mail](mailto:info@ojobabs.tech) - Say hi
 
 ## And of course Check my [public repository](https://github.com/ojobabs) here.
