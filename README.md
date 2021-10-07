@@ -17,7 +17,7 @@
 
 ### Contact
 
-* [Website](http://ojobabs.dev)-.
+* [Website](http://ojobabs.dev)- http://ojobabs.dev
 * [Twitter](https://twitter.com/babs_tinapa) - Let's connect on twitter.
 * [Mail](mailto:info@ojobabs.dev) - Say hi
 
