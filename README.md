@@ -13,15 +13,7 @@
 
 ### Certifictaions
 
-| Name  | Level | Code |
-
-| ------------- |---------------: | :--------: |
-
-| Azure Fundamentals | Beginner | AZ 900 |
-
-| Azure Administrator | intermediate | In View(AZ 103) |
-
-| Azure DevOps | intermediate | In View |
+** **
 
 ### Contact
 
