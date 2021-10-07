@@ -6,9 +6,22 @@
   - I listen to cool, soul-lifting music when not reading.
   
 * ❶ Learning Infrastructure as a code(IAC)
-* ✅ I'mlearning deep learning with data science Nigeria. #Completed
-* ✅I'm also doing a refresher course on Machine Learning with [Hamoye Internship](https://github.com/HamoyeHQ). #Completed
+* ✅ learnt deep learning with data science Nigeria. #Completed
+* ✅ Did a refresher course on Machine Learning with [Hamoye Internship](https://github.com/HamoyeHQ). #Completed
+
 ### * [Ai6 Saturdays](https://github.com/AISaturdaysLagos) Grad.
+
+### Certifictaions
+
+| Name  | Level | Code |
+
+| ------------- |---------------: | :--------: |
+
+| Azure Fundamentals | Beginner | AZ 900 |
+
+| Azure Administrator | intermediate | In View(AZ 103) |
+
+| Azure DevOps | intermediate | In View |
 
 ### Contact
 
