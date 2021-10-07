@@ -1,19 +1,20 @@
-# Hey!
-## I'm Babatunde Victor.
-(Data scientist and software developer)
+# Hey there!
+## I'm Babatunde Ojo.
+(Cloud Engineer and software developer)
   - I love automation and simplicity in web solutions.
   - I read journals about AI, when i'm not coding.
   - I listen to cool, soul-lifting music when not reading.
-
-* 1️⃣I'm learning deep learning with data science Nigeria.
-* 2️⃣I'm also doing a refresher course on Machine Learning with [Hamoye Internship](https://github.com/HamoyeHQ).
+  
+* ❶ Learning Infrastructure as a code(IAC)
+* ✅ I'mlearning deep learning with data science Nigeria. #Completed
+* ✅I'm also doing a refresher course on Machine Learning with [Hamoye Internship](https://github.com/HamoyeHQ). #Completed
 ### * [Ai6 Saturdays](https://github.com/AISaturdaysLagos) Grad.
 
 ### Contact
 
-* [Website](http://ojobabs.tech)- Check some of my recently completed projects.
+* [Website](http://ojobabs.dev)-.
 * [Twitter](https://twitter.com/babs_tinapa) - Let's connect on twitter.
-* [Mail](mailto:info@ojobabs.tech) - Say hi
+* [Mail](mailto:info@ojobabs.dev) - Say hi
 
 ## And of course Check my [public repository](https://github.com/ojobabs) here.
 You can clone this with
@@ -21,6 +22,6 @@ You can clone this with
 $ git clone https://github.com/ojobabs.git
 ```
  
- [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](http://ojobabs.tech)
+ [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](http://ojobabs.dev)
 
 
