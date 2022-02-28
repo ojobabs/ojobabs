@@ -10,7 +10,7 @@
 * ✅ Did a refresher course on Machine Learning with [Hamoye Internship](https://github.com/HamoyeHQ). #Completed
 
 ### * [Ai6 Saturdays](https://github.com/AISaturdaysLagos) Grad.
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ojobabs&count_private=true&show_icons=true">
 ### Certifictaions
 
 ** **
