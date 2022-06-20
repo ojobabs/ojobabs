@@ -1,6 +1,6 @@
 # Hey there!
 ## I'm Babatunde Ojo.
-(Cloud Engineer and software developer)
+(Cloud / DevOps Engineer)
   - I love automation and simplicity in software solutions.
   - I read journals about Cloud computing and Devops when i'm not coding.
   - I listen to music when not reading.
